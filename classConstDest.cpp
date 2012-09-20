@@ -15,12 +15,7 @@ class fraction{
 
     public:
         // Construtor sem paramtros
-        fraction();
-        // Construtor com parametros - referencia constante
-        fraction(const int&, const int&);
-        // Destrutor
-        ~fraction(){}
-        // Metodo que mostra em forma de fração
+       forma de fração
         void show() const;
         // método que retorna o double result - método inline
         double getFraction() const {return this->result;}
