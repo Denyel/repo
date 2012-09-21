@@ -11,8 +11,8 @@ class fraction{
     // Atributos privados
     int denom, numer;
     bool sign;//true: negative
-    double result;
-
+    double result
+    echo ("fjdfklskdjfsdfsdf");
     public:
         // Construtor sem paramtros
        forma de fração
